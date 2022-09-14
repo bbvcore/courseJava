@@ -2,7 +2,7 @@ package com.mycompany.java_01;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class Java_13_eventos_y_swing extends JFrame implements ActionListener {
+public class Java_12_eventos_y_swing extends JFrame implements ActionListener {
    
     // Variable btn1
     JButton btn1;
