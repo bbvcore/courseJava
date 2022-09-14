@@ -6,7 +6,7 @@ import java.util.Scanner;
 // en series de bytes planos y a la inversa.
 // Para ello usamos FileInputStream y FileOuputStream como envoltorio para
 // ayudarnos en estas operaciones
-public class Java_10_fichero_binario implements Serializable {
+public class Java_11_fichero_binario implements Serializable {
     
     static Scanner sc = new Scanner(System.in);
     
