@@ -3,7 +3,7 @@ package com.mycompany.java_01;
 //                   TRABAJANDO CON FICHEROS DE TEXTO
 //==============================================================================
 import java.io.*;
-public class Java_11_fichero_text {
+public class Java_10_fichero_text {
     public static void main(String [] args){
         try{
 //==============================================================================
