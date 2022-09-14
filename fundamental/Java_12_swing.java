@@ -8,7 +8,7 @@ public class Java_12_eventos_y_swing extends JFrame implements ActionListener {
     JButton btn1;
     
     // Constructor: lo usamos para crear el Frame y le añadimos el botón.
-    public  Java_13_eventos_y_swing(){
+    public  Java_12_eventos_y_swing(){
         // PASO 1: Creación de un FRAME, que servirá de contenedor para colocar nuestro 
         // botón, básicamente creamos la ventana.
         //=============================================================================
@@ -78,7 +78,7 @@ Los frames son clases que requieren herencia por ellos "extends" JFrame
      
 */
     // Creamos una instancia de la clase, crea el Frame con el botón
-        Java_13_eventos_y_swing jf1 = new Java_13_eventos_y_swing();        
+        Java_12_eventos_y_swing jf1 = new Java_12_eventos_y_swing();        
         // Especificamos tamaño, visibilidad y cierre del frame
         jf1.setBounds(800,400,300,150); // Posición (a,b), tamaño (c,d)
         jf1.setVisible(true);
